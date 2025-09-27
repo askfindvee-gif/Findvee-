@@ -1,0 +1,29 @@
+{
+  "color": {
+    "baseBg": "#0F1114",
+    "panelBg": "rgba(255,255,255,0.08)",
+    "panelBorder": "rgba(255,255,255,0.20)",
+    "textPrimary": "#ECEFF4",
+    "textSecondary": "#B5BDC9",
+    "accentGold": "#BA9A38",
+    "accentGreen": "#4ADE80",
+    "accentPurple": "#A855F7",
+    "danger": "#F87171",
+    "warning": "#FBBF24",
+    "success": "#22C55E"
+  },
+  "space": {
+    "xs": 4,
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "xl": 24,
+    "xxl": 32
+  },
+  "radius": {
+    "none": 0
+  },
+  "blur": {
+    "panel": 20
+  }
+}

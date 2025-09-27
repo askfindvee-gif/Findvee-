@@ -1,0 +1,38 @@
+{
+  "food_dining": {
+    "restaurant": ["diner", "eatery", "cafe", "canteen", "bistro"],
+    "veg": ["vegetarian", "plant-based", "meat-free"],
+    "non_veg": ["non-vegetarian", "meat-serving"]
+  },
+  "groceries_retail": {
+    "grocery": ["supermarket", "super mart", "hypermarket", "food mart", "corner shop", "bodega"],
+    "general_store": ["convenience store", "mini-mart", "kiosk"]
+  },
+  "health_pharmacy": {
+    "pharmacy": ["chemist", "drugstore", "apothecary", "dispensary", "med store", "medical shop"],
+    "hospital": ["clinic", "medical center", "healthcare"],
+    "doctor": ["physician", "gp", "general practitioner", "practitioner"]
+  },
+  "transport": {
+    "auto": ["autorickshaw", "rickshaw", "three-wheeler", "tuk-tuk", "bajaj"],
+    "taxi": ["cab", "ride", "ride-hailing", "uber", "lyft"],
+    "bus": ["coach", "shuttle"],
+    "truck": ["lorry", "freight vehicle"]
+  },
+  "pets": {
+    "pet_care": ["vet", "veterinarian", "animal hospital", "pet clinic"],
+    "pet_store": ["pet shop", "animal supplies", "pet supplies"]
+  },
+  "stay": {
+    "hotel": ["motel", "inn", "guesthouse", "hostel", "bnb", "lodging", "resort"],
+    "pg": ["paying guest", "shared accommodation", "boarding"]
+  },
+  "food_delivery": {
+    "delivery": ["home delivery", "takeaway", "takeout", "parcel"],
+    "order_food": ["food delivery", "online ordering"]
+  },
+  "wellness_fitness": {
+    "gym": ["fitness center", "health club", "workout studio"],
+    "spa": ["wellness center", "massage parlor"]
+  }
+}
